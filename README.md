@@ -6,7 +6,7 @@ I'm a software developer, who loves to explore new tech and passionate about wri
 
 <br>
 <p><em>
-Pursued Computer Science at <a href="https://www.aot.edu.in">AOT</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer at <a href="https://www.innofied.com">Innofied</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Pursued Computer Science at <a href="https://www.aot.edu.in">AOT</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer at <a href="https://www.affle.com">Affle</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ### <img src="https://i.giphy.com/media/bcKmIWkUMCjVm/giphy.webp" width="70">A little more about me...
